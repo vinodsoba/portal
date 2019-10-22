@@ -1,0 +1,24 @@
+/*
+Theme New: RainForest
+Author: Vinod Soba
+
+*/
+body {
+  background: white;
+}
+
+header {
+  width: 100%;
+  height: 50px;
+  background-color: #ddd;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: #ddd;
+}
+
+.my-text p{
+  color: red;
+}
